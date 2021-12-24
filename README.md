@@ -1,1 +1,1 @@
-# Liverdiseasepred
+# Liver-disease-prediction
